@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
-public class NumberPlateValidator {
+public class numberPlate {
 
     public static boolean isValidNumberPlate(String plate) {
 
